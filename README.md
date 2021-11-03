@@ -1,13 +1,13 @@
 # Deep Learning with Tensorflow and Python
 
-This repository objective is to present the codes and knowledge obtained during Sundog Education course Deep Learning with Tensorflow and Python. Must of the codes presented here are based entirely on the lessons, with minor modifications and added comments for documentation.
+This repository objective is to present the codes and knowledge obtained during Sundog Education course Deep Learning with Tensorflow and Python. Most of the codes presented here are based entirely on the lessons, with minor modifications and added comments for documentation.
 
 # Knowledge obtained (updating)
 
 By the end of this course, the knowledge obtained include:
   - 
 
-The course can be find [here](https://sundog-education.com/course/deeplearning/) and is divided in 7 sessions. The repository is being update accordingly to the lessons/sessions completed.
+The course can be find [here](https://sundog-education.com/course/deeplearning/) and is divided in 7 sessions. The repository is being update accordingly to the lessons/sessions completed, and each session is a repository folder.
 
 ## 1. Introduction 
 **Lessons**
