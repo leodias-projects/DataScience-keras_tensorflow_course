@@ -28,7 +28,7 @@ The course can be find [here](https://sundog-education.com/course/deeplearning/)
 **Lessons**
   - Introducing Keras
   - Using Keras to learn political affiliations
-  -
+ 
 ## 4. Convolutional Neural Networks
 **Lessons**  
   - Convolutional Neural Networks
