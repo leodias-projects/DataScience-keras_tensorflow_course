@@ -2,7 +2,7 @@
 
 This repository objective is to present the codes and knowledge obtained during Sundog Education course Deep Learning with Tensorflow and Python. Most of the codes presented here are based entirely on the lessons, with minor modifications and added comments for documentation.
 
-The course can be find [here](https://sundog-education.com/course/deeplearning/) and is divided in 7 sessions. The repository is being update accordingly to the lessons/sessions completed, and each session is a repository folder. The repository files are **Jupyter notebooks**, because I want to write stuff between codes!
+The course can be find [here](https://sundog-education.com/course/deeplearning/) and is divided in 7 sessions. The repository files are **Jupyter notebooks**, because I want to write stuff between codes!
 
 ## 1. Introduction 
 
