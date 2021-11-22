@@ -15,7 +15,7 @@ This section provides information about neural networks concepts, such gradient 
    
 ## 2. Tensorflow and low-level API
 
-In this section, a tensorflow playground was introduced, where is possible to test different datasets with different models and neural network sizes. A few more details about neural networks are presented, such as backpropagation, activation functions, optimization functions, and how to tune the topology and avoid overfitting. Than, tensorflow itself is introduced, how it works and what it does. Finally, the handwritting problem with MNIST data is solved!
+In this section, a tensorflow playground was introduced, where is possible to test different datasets with different models and neural network sizes. A few more details about neural networks are presented, such as backpropagation, activation functions, optimization functions, and how to tune the topology and avoid overfitting. Then, tensorflow itself is introduced, how it works and what it does. Finally, the handwritting problem with MNIST data is solved!
 
 **Lessons**
   - Hands-On in the tensorflow playground
