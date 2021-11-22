@@ -5,7 +5,9 @@ This repository objective is to present the codes and knowledge obtained during 
 The course can be find [here](https://sundog-education.com/course/deeplearning/) and is divided in 7 sessions. The repository is being update accordingly to the lessons/sessions completed, and each session is a repository folder. The repository files are **Jupyter notebooks**, because I want to write stuff between codes!
 
 ## 1. Introduction 
-This section provides information about neural networks concepts, such gradient descent, autodiff, and softmax. Additionaly, the foundantions and inspiration for neural networks are presented, the biological analogy, a single artificial neuron, LTU, perceptron and multi-layer perceprons. 
+
+This section provides information about neural networks concepts, such gradient descent, autodiff, and softmax. Additionaly, the foundantions and inspiration for neural networks are presented, the biological analogy, a single artificial neuron, LTU, perceptron and multi-layer perceptrons. 
+
 **Lessons**
   - Course introduction
   - Getting started and pre requisites
@@ -32,16 +34,25 @@ Here, the tensorflow API for Python - Keras - is presented. Keras allow to devel
   - Using Keras to learn political affiliations
  
 ## 4. Convolutional Neural Networks
+
+Convolutionals Neural Networks are presented is this section, and the handwriting problem is again revisited. This time, with a proper image classification technique, the accuracy of the model goes up with ease.
+
 **Lessons**  
   - Convolutional Neural Networks
   - Using CNNs for handwriting recognition
 
 ## 5. Recurrent Neural Networks
+
+This section presents the Recurrent Neural Networks, its properties (feedback - output as input for neurons), and a challenge to classify movies based on text reviews as bad or good is solved. 
+
 **Lessons**
   - Recurrent Neural Networks
   - Using RNNs for sentiment analysis
 
 ## 6. Neural Networks in the Real World
+
+How to obtain already trained models for specific problems, tuning neural networks, and other subjects are approached in this section.
+
 **Lessons**
   - Transfer learning
   - Tuning neural networks
@@ -49,6 +60,7 @@ Here, the tensorflow API for Python - Keras - is presented. Keras allow to devel
   - The ethics of deep learning
   
 ## Final Project
+Lastly, the final project. The challenge is to detect if a mammogram mass is benign or malign based on its features!
 **Lessons**
   - Deep learning project intro
   - Deep learning project solution
