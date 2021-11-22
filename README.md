@@ -35,7 +35,7 @@ Here, the tensorflow API for Python - Keras - is presented. Keras allow to devel
  
 ## 4. Convolutional Neural Networks
 
-Convolutionals Neural Networks are presented is this section, and the handwriting problem is again revisited. This time, with a proper image classification technique, the accuracy of the model goes up with ease.
+Convolutionals Neural Networks are presented in this section, and the handwriting problem is again revisited. This time, with a proper image classification technique, the accuracy of the model goes up with ease.
 
 **Lessons**  
   - Convolutional Neural Networks
